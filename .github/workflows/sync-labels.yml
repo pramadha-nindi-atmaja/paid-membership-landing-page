@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: strangerstudios/label-sync@v2
+      - uses: pramadha-nindi-atmaja/label-sync@v2
         with:
           # If you want to use a source repo, you can put is name here (only the owner/repo format is accepted)
-          source-repo: strangerstudios/paid-memberships-pro
+          source-repo: pramadha-nindi-atmaja/paid-memberships-pro
 
           # If you want to delete any additional label, set this to true
           delete-other-labels: true

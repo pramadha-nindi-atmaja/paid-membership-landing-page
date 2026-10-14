@@ -13,22 +13,22 @@ For more information please visit [https://www.paidmembershipspro.com/add-ons/me
 ## Installation ##
 For detailed installation steps, visit the [https://www.paidmembershipspro.com/add-ons/member-homepages/](https://www.paidmembershipspro.com/add-ons/member-homepages/) page.
 
-1. Download the current development ZIP file directly: `https://github.com/strangerstudios/pmpro-member-homepages/archive/dev.zip`
+1. Download the current development ZIP file directly: `https://github.com/pramadha-nindi-atmaja/pmpro-member-homepages/archive/dev.zip`
 
 **Please ensure that once installing this version of the plugin to remove `-dev` from the plugin's folder name.**
 
 ## Bugs ##
-If you find an issue/bug, let us know by [creating a detailed GitHub issue](https://github.com/strangerstudios/pmpro-member-homepages/issues/new).
+If you find an issue/bug, let us know by [creating a detailed GitHub issue](https://github.com/pramadha-nindi-atmaja/pmpro-member-homepages/issues/new).
 
 ## Support ##
 This is a developer's portal for Paid Memberships Pro - Member Homepages. We do not offer support on this channel. **Any support related questions should be directed to [paidmembershipspro.com/support](https://www.paidmembershipspro.com/support/).**
 
 ## Contributing to Paid Memberships Pro - Member Homepages ##
-We encourage and welcome any contribution to Paid Memberships Pro - Member Homepages. Please read the [guidelines for contributing](https://github.com/strangerstudios/pmpro-member-homepages/blob/dev/.github/CONTRIBUTING.md) to this repository.
+We encourage and welcome any contribution to Paid Memberships Pro - Member Homepages. Please read the [guidelines for contributing](https://github.com/pramadha-nindi-atmaja/pmpro-member-homepages/blob/dev/.github/CONTRIBUTING.md) to this repository.
 
 There are various **ways to the help development** of Paid Memberships Pro - Member Homepages:
 
-1. Report [bugs/issues](https://github.com/strangerstudios/pmpro-member-homepages/issues/new) on GitHub.
+1. Report [bugs/issues](https://github.com/pramadha-nindi-atmaja/pmpro-member-homepages/issues/new) on GitHub.
 2. Work on any issues by submitting a Pull Request.
 
 Here are some ways for **non-developers to contribute** to Paid Memberships Pro - Member Homepages:

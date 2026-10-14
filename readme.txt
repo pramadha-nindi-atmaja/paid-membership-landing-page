@@ -1,5 +1,5 @@
 === Paid Memberships Pro - Member Homepages Add On ===
-Contributors: strangerstudios
+Contributors: pramadha-nindi-atmaja
 Tags: paid memberships pro, pmpro, homepages, redirect, landing page, members
 Requires at least: 3.5
 Tested up to: 7.1
@@ -22,7 +22,7 @@ This Add On for Paid Memberships Pro allows you to assign a unique homepage or l
 
 = I found a bug in the plugin. =
 
-Please post it in the issues section of GitHub and we'll fix it as soon as we can. Thanks for helping. https://github.com/strangerstudios/pmpro-member-homepages/issues
+Please post it in the issues section of GitHub and we'll fix it as soon as we can. Thanks for helping. https://github.com/pramadha-nindi-atmaja/pmpro-member-homepages/issues
 
 = I need help installing, configuring, or customizing the plugin. =
 
